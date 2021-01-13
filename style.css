@@ -1,0 +1,31 @@
+*{ margin: 0;
+    padding: 0;
+}
+.header{
+height: 100vh;
+}
+.navbar-style{
+    box-shadow: none;
+}
+.logo{
+    height: 48px;
+    padding: 2px 10px;
+}
+
+     .kk{
+         margin-right:18px;
+         margin-left: 2 px;
+     }
+     .nav li a{
+         color:black;
+     }
+     .kkk
+     {
+         margin-left:5%;
+     }
+     #jacket{
+        margin-left:5%;
+     }
+    .k{
+        background-color: purple;
+    }
