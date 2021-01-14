@@ -26,6 +26,20 @@ height: 100vh;
      #jacket{
         margin-left:5%;
      }
-    .k{
-        background-color: purple;
+    .new{
+        background-color: pink;
     }
+    .xp{
+       
+        color:yellowgreen;
+    }
+    .xp2{
+        margin-left: 5%;
+        color: yellowgreen;
+    }
+    .last{
+        margin-left: 10%;
+       
+    }
+
+    
